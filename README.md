@@ -1,7 +1,4 @@
-`README.md`**.
-
-````markdown
-# 🌍 Land Cover Classification using Deep Learning
+### 🌍 Land Cover Classification using Deep Learning
 
 A deep learning-based satellite image classification project that uses **ResNet18** and the **EuroSAT RGB dataset** to classify satellite images into 10 different land-cover categories.
 
