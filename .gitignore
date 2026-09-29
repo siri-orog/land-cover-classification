@@ -1,0 +1,24 @@
+# Virtual environment
+land_cover_env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset - too large for GitHub
+data/eurosat/
+
+# Generated files
+*.log
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
